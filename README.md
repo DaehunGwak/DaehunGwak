@@ -1,4 +1,13 @@
-### Hi there 👋
+### Backend Engineer
+
+- NAVER Corp. NOW Dev. Python Backend Engineer (2020.03.12 ~ )
+
+
+### Interests
+
+- 💻 Python, Django, Celery
+- 📇 javascript, Vue.js
+- 💽 Musics
 
 <!--
 **DaehunGwak/DaehunGwak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
