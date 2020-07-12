@@ -5,9 +5,9 @@
 
 ### Interests
 
-- 💻 Python, Django, Celery
-- 📇 javascript, Vue.js
-- 💽 Musics
+- 💻 &nbsp; Python, Django, Celery
+- 📇 &nbsp; javascript, Vue.js
+- 💽 &nbsp; Musics
 
 <!--
 **DaehunGwak/DaehunGwak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
