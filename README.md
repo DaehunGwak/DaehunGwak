@@ -9,6 +9,13 @@
 - 📇 &nbsp; javascript, Vue.js
 - 💽 &nbsp; Musics
 
+
+<div align=center>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaehunGwak)](https://hits.seeyoufarm.com)
+
+</div>
+
 <!--
 **DaehunGwak/DaehunGwak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
