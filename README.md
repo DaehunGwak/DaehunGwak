@@ -1,8 +1,6 @@
 <div align="center">
 
-## slow, but steady ☘️
-
-</div>
+### `slow, but steady` ☘️
 
 ### Backend Engineer
 
@@ -11,11 +9,10 @@
 
 ### Interests
 
-- 💻 &nbsp; Python, Django, Celery
-- 📇 &nbsp; javascript, Vue.js
-- 💽 &nbsp; Musics
+💻 &nbsp; Python, Django, Celery  
+📇 &nbsp; javascript, Vue.js  
+💽 &nbsp; Musics  
 
-<div align="center">
 
 [![Daehun's github stats](https://github-readme-stats.vercel.app/api?username=daehungwak&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
