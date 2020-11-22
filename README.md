@@ -4,7 +4,7 @@
 
 ### Backend Engineer
 
-- NAVER Corp. NOW Dev. Python Backend Engineer (2020.03.12 ~ )
+NAVER Corp. NOW Dev. Python Backend Engineer (2020.03.12 ~ )
 
 
 ### Interests
