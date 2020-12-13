@@ -6,9 +6,6 @@
 
 NAVER Corp. NOW Dev. Python Backend Engineer (2020.03.12 ~ )
 
-<iframe src="https://daehungwak.github.io/" title="Ordi dev blog"></iframe>
-
-
 ### Interests
 
 💻 &nbsp; Python, Django, Celery  
