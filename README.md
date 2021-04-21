@@ -12,7 +12,7 @@ Global Music - NOW Dev. Python Backend Engineer (2020.03.~2021.03.)
 
 ### Interests
 
-☄️ &nbsp; Java, Spring. 
+☄️ &nbsp; Java, Spring  
 💻 &nbsp; Python, Django, Celery  
 📇 &nbsp; javascript, Vue.js  
 💽 &nbsp; Musics  
