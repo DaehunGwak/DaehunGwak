@@ -2,12 +2,15 @@
 
 ### `slow, but steady` ☘️
 
-### Web Programmer
+### Backend Engineer
 
-NAVER Corp. NOW Dev. Python Backend Engineer (2020.03.12 ~ )
+NAVER Corp.
+- NOW Dev. Python Backend Engineer (2020.03.~2021.03.)
+- Tune CIC, Music Dev, Java Backend Engineer (2021.04.~)
 
 ### Interests
 
+☄️ &nbsp; Java, Spring
 💻 &nbsp; Python, Django, Celery  
 📇 &nbsp; javascript, Vue.js  
 💽 &nbsp; Musics  
