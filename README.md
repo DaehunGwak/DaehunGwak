@@ -19,8 +19,8 @@ NAVER Corp.
 
 ☄️ &nbsp; Kotlin/Java, Spring Boot/Web/Batch, MySQL, Kafka, Docker/Kubernetes  
 💻 &nbsp; Python, Django, Celery  
-📇 &nbsp; javascript, Vue.js
-📱 &nbsp; dart, Flutter
+📇 &nbsp; javascript, Vue.js  
+📱 &nbsp; dart, Flutter  
 💽 &nbsp; Musics  
 
 
