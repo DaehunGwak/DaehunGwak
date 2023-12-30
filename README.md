@@ -17,9 +17,10 @@ NAVER Corp.
 
 ### Interests
 
-☄️ &nbsp; Java, Spring Boot/Web/Batch, MySQL, Kafka, Docker/Kubernetes  
+☄️ &nbsp; Kotlin/Java, Spring Boot/Web/Batch, MySQL, Kafka, Docker/Kubernetes  
 💻 &nbsp; Python, Django, Celery  
-📇 &nbsp; javascript, Vue.js  
+📇 &nbsp; javascript, Vue.js
+📱 &nbsp; dart, Flutter
 💽 &nbsp; Musics  
 
 
