@@ -2,12 +2,17 @@
 
 ### `slow, but steady` ☘️
 
+</div>
+
+<div>
+
 ### Backend Engineer
 
 NAVER Corp.
 
-Tune CIC - Music Dev. Java Backend Engineer (2021.04.~2023.10)  
-Global Music - NOW Dev. Python Backend Engineer (2020.03.~2021.03.)  
+- Sound Recommendation. Kotlin/Java Backend Engineer (2023.11~)
+- Tune CIC - Music Dev. Java Backend Engineer (2021.04.~2023.10)  
+- Global Music - NOW Dev. Python Backend Engineer (2020.03.~2021.03.)  
 
 
 ### Interests
@@ -21,6 +26,7 @@ Global Music - NOW Dev. Python Backend Engineer (2020.03.~2021.03.)
 [![Daehun's github stats](https://github-readme-stats.vercel.app/api?username=daehungwak&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
 
 <!--
 **DaehunGwak/DaehunGwak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
