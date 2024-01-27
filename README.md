@@ -10,7 +10,7 @@
 
 NAVER Corp.
 
-- Sound Recommendation. Kotlin/Java Backend Engineer (2023.11~)
+- Clip Background Sound. Kotlin Backend Engineer (2023.11~)
 - Tune CIC - Music Dev. Java Backend Engineer (2021.04.~2023.10)  
 - Global Music - NOW Dev. Python Backend Engineer (2020.03.~2021.03.)  
 
