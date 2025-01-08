@@ -24,7 +24,9 @@ NAVER Corp.
 💽 &nbsp; Musics  
 
 
-[![Daehun's github stats](https://github-readme-stats.vercel.app/api?username=daehungwak&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/DaehunGwak"/>
+</a>
 
 </div>
 
@@ -42,4 +44,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Daehun's github stats](https://github-readme-stats.vercel.app/api?username=daehungwak&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 -->
